@@ -1,0 +1,19 @@
+# clone the repo
+git clone https://github.com/phoebe12345/phoebe12345.github.io.git
+
+# pull latest code
+git pull
+
+# push code
+git add .
+git commit -m 'some message'
+git push -u origin master
+
+# go to folder
+cd folder_name
+
+# go back in folder
+cd ..
+
+# list all files in folder
+ls
